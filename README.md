@@ -21,8 +21,7 @@ Technologies & Concepts covered:
 Java and DSA:
 object-oriented programming, collections framework, graphs, algorithm etc..... many interrelated subtopics are used.
 
-Class Responsibilities-
-Classes:                Responsibility:                                          
+Class Responsibilities-                                        
 
 Location.java         Represents a location/node in the graph                 
 Edge.java             Represents a road connection and its distance           
